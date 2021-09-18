@@ -1,0 +1,2 @@
+# glareImage
+Create glare images 
